@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+                    <!-- 首页 -->
+                    <url>
+                     <loc>http://1lin.xyz/</loc>
+                     <lastmod>2022-03-19</lastmod>
+                     <changefreq>daily</changefreq>
+                     <priority>1</priority>
+                    </url>
+                    <!-- 潮流话题 -->
+                    <url>
+                     <loc>http://1lin.xyz/search/result-topic</loc>
+                     <lastmod>2022-03-19</lastmod>
+                     <changefreq>daily</changefreq>
+                     <priority>0.8</priority>
+                    </url>
+                    <!-- 热门内容 -->
+                    <url>
+                     <loc>http://1lin.xyz/search/result-post</loc>
+                     <lastmod>2022-03-19</lastmod>
+                     <changefreq>daily</changefreq>
+                     <priority>0.8</priority>
+                    </url>
+                    <!-- 发现页 -->
+                    <url>
+                     <loc>http://1lin.xyz/search</loc>
+                     <lastmod>2022-03-19</lastmod>
+                     <changefreq>weekly</changefreq>
+                     <priority>0.5</priority>
+                    </url>
+                    <!-- 活跃用户 -->
+                    <url>
+                     <loc>http://1lin.xyz/search/result-user</loc>
+                     <lastmod>2022-03-19</lastmod>
+                     <changefreq>weekly</changefreq>
+                     <priority>0.5</priority>
+                    </url>
+                    <!-- ↑↑站点的主入口链接相对固定，所以上面部分是模板中固定的部分↑↑ -->
+                    <!-- ↓↓以下是需要拼装的部分，遍历所有分类URL，循环输出；所有分类的评率设为daily，权重设为1↓↓ -->
+                    <url>
+                     <loc>http://1lin.xyz/?categoryId=all&amp;sequence=0</loc>
+                     <lastmod>2022-03-19</lastmod>
+                     <changefreq>daily</changefreq>
+                     <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=1_4_5_7_8_10_11_13_14_15_19_41_42_43_44&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=3&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=18&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=21_22_23_24_25_26_27_28_29_30_31_32_33_34&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=35&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=36&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=37&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=38&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url><url>
+                         <loc>http://1lin.xyz/?categoryId=39&amp;sequence=0</loc>
+                         <lastmod>2022-03-19</lastmod>
+                         <changefreq>daily</changefreq>
+                         <priority>1</priority>
+                    </url></urlset>
